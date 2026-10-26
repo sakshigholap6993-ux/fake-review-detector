@@ -1,0 +1,12 @@
+[server]
+maxUploadSize = 10   # MB
+
+# Separate light/dark sections keep Streamlit following the viewer's system theme.
+[theme.light]
+primaryColor = "#4F46E5"
+
+[theme.dark]
+primaryColor = "#818CF8"
+
+[browser]
+gatherUsageStats = false
